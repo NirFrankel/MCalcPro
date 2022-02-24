@@ -1,5 +1,5 @@
 # MCalcPro
-The Mortgage-Calculator Pro app much like it's name suggests provides the user with a detailed analysis of their estimated mortgage variables determined by the user: Principle, Ammortization and Interest.
+The Mortgage-Calculator Pro app much like it's name suggests provides the user with a detailed analysis of their estimated mortgage variables determined by the user: Principle, Amortization and Interest.
 # UI and Behaviour
 The visible UI consists of five widgets: three text boxes, the "Analyze" button, and a display box underneath for the analysis. Once valid variables have been entered for the Principle. AMmortizaiton period and Interest rate the app will anaylze these numbers, determine and display the monthly mortgage payment, a pre determined text message will follow explaining that by following this payment for the length of the ammortization period, what the remaining balance will be on the nth year. The year over year balance will be displayed underneath this for the user until year five and from then the five year balance until year 20.
 # Design
